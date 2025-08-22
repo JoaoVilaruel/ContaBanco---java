@@ -85,4 +85,4 @@ sua agência é 067-6, conta 1721 e seu saldo 297.48 já está disponível para 
 
 ## ✨ Autor
 
-Feito por [**SEU NOME**](https://github.com/JoaoVilaruel) 🚀
+Feito por [**Joao Vilaruel**](https://github.com/JoaoVilaruel) 🚀
